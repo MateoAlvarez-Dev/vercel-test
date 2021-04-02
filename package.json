@@ -1,24 +1,26 @@
 {
-    "name": "ejemplopapi",
-    "version": "1.0.0",
-    "description": "Jose alzate",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "dev": "node index.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": ""
-    },
-    "keywords": [
-      "Nmms"
-    ],
-    "author": "KaliGhst",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/KaliGhst/test-vercel/issues"
-    },
-    "homepage": "https://github.com/KaliGhst/test-vercel#readme"
+  "name": "ejemplopapi",
+  "version": "1.0.0",
+  "description": "Jose alzate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Nmms"
+  ],
+  "author": "KaliGhst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaliGhst/test-vercel/issues"
+  },
+  "homepage": "https://github.com/KaliGhst/test-vercel#readme",
+  "dependencies": {
+    "express": "^4.17.1"
   }
-  
+}
